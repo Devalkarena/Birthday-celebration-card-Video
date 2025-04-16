@@ -1,34 +1,21 @@
-Happy Birthday
+## 🎂 Birthday Celebration Card (HTML & CSS)
 
-A Happy Birthday animation design in CSS3, HTML5.
+This project includes a beautifully designed **Birthday Celebration Card** built with **HTML and CSS**. It displays a warm birthday message with an embedded video to make someone's day extra special.
 
-URL: http://ayusharma.github.io/birthday/
+### ✨ Features
+- Custom birthday message
+- Stylish animated card layout
+- Embedded YouTube birthday video
+- Fully responsive and easy to customize
 
-Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
+### 🚀 How to Run
+1. Clone or download this repository.
+2. Navigate to the `birthday-card` folder.
+3. Open `birthday.html` in any modern web browser.
 
-# Setup
+### 💡 Statement
+> “Wishing you a day filled with joy, laughter, and unforgettable memories. May this year be your best yet! 🥳”
 
-## If you have python installed:
-```
-cd Birthday
-```
+---
 
-&& 
-
-```
-python -m SimpleHTTPServer --port  8081
-```
-
-visit http://localhost:8081 in your browser.
-
-## If you have nodejs installed
-```
-npm install
-```
-&&
-
-```
-npm run server-node
-```
-visit http://localhost:8081 in your browser.
-
+Let me know if you'd like help adding confetti animation, background music, or converting it to a downloadable e-card version!
